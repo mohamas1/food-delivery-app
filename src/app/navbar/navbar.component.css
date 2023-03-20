@@ -1,0 +1,7 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+a:hover, a:hover span {
+    color: #9A1A4A;
+}
